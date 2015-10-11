@@ -1,21 +1,21 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: 早起寻觅的博客
+SEOTitle: 早起寻觅的博客 | Tigerkin Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+email: pxhszcn@hotmail.com
+description: ""
+keyword: ""
 baseurl: ""
-url: "http://huxpro.github.io"
+url: "http://pxhszcn.github.io"
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     pxhszcn
+zhihu_username:     pxhszcn
+github_username:    pxhszcn
 #twitter_username:  huxpro
-facebook_username:  huxpro
+#facebook_username:  huxpro
 
 
 # Build settings
@@ -51,23 +51,17 @@ useGoogleAnalysis: true     # TODO
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg     # use absolute URL.
+sidebar-about-description: "每天进步一点"
+sidebar-avatar: /img/tiger.jpg     # use absolute URL.
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value 
 
 # Friends
-friends: [
-    {
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    }
-]
+#friends: [
+#    {
+#        title: "天镶的博客",
+#        href: "http://lingyu.wang/"
+#    }
+#]
